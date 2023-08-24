@@ -1,6 +1,6 @@
 # SoftUni - JS Front-End - October 2023
 
-In this repository there are solutions to tasks from the HTML & CSS course of the software academy of SoftUni University.
+In this repository there are solutions to tasks from the JS Front-End course of the software academy of SoftUni University.
 
 https://softuni.bg/trainings/4240/js-front-end-october-2023
 
