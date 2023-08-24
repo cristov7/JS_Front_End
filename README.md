@@ -2,7 +2,7 @@
 
 In this repository there are solutions to tasks from the HTML & CSS course of the software academy of SoftUni University.
 
-https://softuni.bg/trainings/4240/js-front-end-october-2023#lesson-59682
+https://softuni.bg/trainings/4240/js-front-end-october-2023
 
 Online judge system - https://judge.softuni.org/
 
@@ -10,13 +10,20 @@ Online judge system - https://judge.softuni.org/
 
 # Table of Contents:
 
-- Introduction to HTML & CSS
-- Typography in CSS
-- Box Model & Position
-- CSS Layout - Flexbox
-- Responsive Web Design
-- Form & Working with Forms
+- JS Syntax Fundamentals
+- JS Arrays & Strings
+- Functions and Statements
+- Objects and Classes
+- DOM Introduction
+- DOM Manipulation and Events
+- HTTP and REST
+- Asynchronous Programming
 - Exam Preparation
-- Design to Code - Demo Project
 - Regular Exam
 - Retake Exam
+
+
+# Additional resources:
+- JS Front-End
+
+https://softuni.bg/trainings/4240/js-front-end-october-2023
